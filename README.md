@@ -25,7 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
-* HydraTrader x402 Catalog - Three pay-per-call agent helpers on Base USDC (cheap-errand \$0.01, structured-extract \$0.03, research-brief \$0.08). No API key. [Website](https://x402.hydratrader.ai) [SKILL](https://x402.hydratrader.ai/SKILL.md) [Discovery](https://x402.hydratrader.ai/.well-known/x402)
+* HydraTrader x402 Catalog - Three pay-per-call agent helpers on Base USDC (cheap-errand $0.01, structured-extract $0.03, research-brief $0.08). No API key. [Website](https://x402.hydratrader.ai) [SKILL](https://x402.hydratrader.ai/SKILL.md) [Discovery](https://x402.hydratrader.ai/.well-known/x402)
 
 ---
 
@@ -53,7 +53,7 @@ It allows seamless machine-native transactions:
 ## 💪 Why x402?
 
 * Built for **agentic commerce**
-* Instant micropayments (\$0.001 per request possible)
+* Instant micropayments ($0.001 per request possible)
 * Supports AI agents, APIs, content paywalls, cloud compute, etc.
 * No subscriptions, no API keys, no manual billing
 
